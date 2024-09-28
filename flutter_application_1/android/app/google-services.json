@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479619835811",
+    "project_id": "backend-forms-afde8",
+    "storage_bucket": "backend-forms-afde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479619835811:android:a1dd69f1819a471e361c16",
+        "android_client_info": {
+          "package_name": "com.meuprojeto.flutter_usuario_teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_eXaE0sjMlfAwq7aUR4rfYY19LiaMfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
